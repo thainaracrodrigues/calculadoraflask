@@ -1,2 +1,3 @@
 # calculadoraflask
-Atividade referente a aula do dia 18/02 de Frameworks Fullstack - Calculadora Web Flask Python 
+Atividade Contínua - 08/04
+Fabio Alves RA 1901209 e Thainara Rodrigues RA 1905157
